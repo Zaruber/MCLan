@@ -1,4 +1,12 @@
-# MCLan
+<p align="center">
+  <img src="assets/logo.png" alt="MCLan logo" width="220">
+</p>
+
+<h1 align="center">MCLan</h1>
+
+<p align="center">
+  Простой LAN-туннель для Minecraft через WebRTC
+</p>
 
 Мод для подключения к LAN-миру Minecraft через WebRTC, без белого IP.
 
